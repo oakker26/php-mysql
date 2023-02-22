@@ -4,6 +4,7 @@
      <div class=" row">
           <div class="col-12">
                <button class="btn btn-primary">Testing index</button>
+               <?= url("index.php")?>
           </div>
      </div>
 </div>
