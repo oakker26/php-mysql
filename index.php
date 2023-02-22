@@ -5,6 +5,7 @@
           <div class="col-12">
                <button class="btn btn-primary">Testing index</button>
                <?= url("index.php")?>
+               <p>kwikwi sann kyi der</p>
           </div>
      </div>
 </div>
